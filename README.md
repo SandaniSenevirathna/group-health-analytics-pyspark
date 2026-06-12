@@ -160,7 +160,7 @@ group-health-analytics-pyspark/
 ├── data/
 │   └── biodata_advanced.csv
 │
-├── notebooks/
+├── notebook/
 │   └── StudentID_Bigdata_Assignment1.ipynb
 │
 ├── output/
@@ -169,11 +169,8 @@ group-health-analytics-pyspark/
 ├── report/
 │   └── StudentID_Bigdata_Assignment1.pdf
 │
-├── screenshots/
-│
-├── README.md
-│
-└── requirements.txt
+├── requirements.txt
+└── README.md
 ```
 
 ---
